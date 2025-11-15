@@ -3,7 +3,7 @@ class employee:
     salary = '1000' #class attribute
     # attribure belong yo specific class
 
-harry = employee() #object instation
+harry = employeee() #object instation
 harry.language = 'Javascript'  # instance attribure or #object attribute instance(object)
 print(harry.salary,harry.language)
 

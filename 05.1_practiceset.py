@@ -6,5 +6,5 @@ class programer:
         self.salary = salary
         self.skill = skill  # Dunder method are automatically called  # init call ho jaye ga jab ap ek object baye ge
    
-divyanshu = programer('microsoft','advance dsa',1500000)
+divyanshu = programer('microsoft','advance dsa',150000000)
 
